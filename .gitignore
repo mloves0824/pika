@@ -33,6 +33,7 @@ log/
 lib/
 tools/
 output/
+output2/
 
 # DB
 db/
